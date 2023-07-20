@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author gokoo
+ *
+ */
+module Program {
+}
