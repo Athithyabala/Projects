@@ -17,16 +17,3 @@
 
 
 
-
-#URL Validation 
-
-#Write a function to validate URL below validations
-
-1.It should be follow standard URL pattern
-
-2.It should not accept more than 2 query parameters
-
-3.It should print 'valid' or 'invalid'
-
-![url-invalid](https://github.com/Athithyabala/Projects/assets/140072462/a781b399-6aef-45a0-967a-c2209a0a1c9d)
-<img width="1080" alt="url-valid" src="https://github.com/Athithyabala/Projects/assets/140072462/5d67eff7-abb0-4b5d-b9e1-3260998cdda2">
